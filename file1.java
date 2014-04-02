@@ -1,2 +1,2 @@
 user 1 added this line.
-user 1 added line 2 also.
+user 2 added line 2.
